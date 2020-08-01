@@ -1,0 +1,11 @@
+colorscheme dracula
+colorscheme zenburn
+exit
+quite
+q!
+clear
+update-cache 
+refresh
+colorscheme night
+refresh 
+pause
